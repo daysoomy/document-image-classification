@@ -218,3 +218,39 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset
+data/
+dataset/
+train/
+test/
+*.tif
+*.tiff
+*.jpg
+*.jpeg
+*.png
+
+# Model checkpoints and weights
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Kaggle credentials
+kaggle.json
+.kaggle/
+
+# Training outputs
+outputs/
+checkpoints/
+runs/
+logs/
+
+# Environment and secrets
+.env
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
