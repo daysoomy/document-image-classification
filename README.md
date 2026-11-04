@@ -86,7 +86,6 @@ Berdasarkan hasil eksperimen dan pengujian pada kompetisi Kaggle, diperoleh hasi
 | Metrik | Hasil |
 |---|---:|
 | Kaggle Public Score | **0.86198** |
-| Peringkat Leaderboard | **28** |
 
 Hasil tersebut merupakan performa pada public leaderboard saat submission dilakukan.
 
